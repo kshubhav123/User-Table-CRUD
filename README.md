@@ -1,5 +1,14 @@
 # UserTable-CRUD
 
+- REST API 
+- NODE JS
+- EXPRESS JS
+- MONGO DB
+- REACT JS
+- BOOTSTRAP
+- SCRATCH
+
+
 ![image](https://user-images.githubusercontent.com/61225988/211873595-5def01c8-5868-4fcb-88ff-849444eedead.png)
 
 
